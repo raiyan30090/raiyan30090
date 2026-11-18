@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="Gemini_Generated_Image_kmmf52kmmf52kmmf.jpeg" width="100%">
+</p>
 
-  <img src="https://share.gemini.google/I4NZgvq837c8" alt="GitHub Banner" width="100%">
 
 ## Hi there 👋
 
