@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://share.gemini.google/I4NZgvq837c8" alt="GitHub Banner" width="100%">
+</p>
+
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on Web Development Project
